@@ -12,7 +12,5 @@ In this work, I performed data cleaning and preprocessing on a COVID-19 clinical
 
 
 ### 3. t_test
-
-
-having a review of different t-test analysis in Python!
+To have a review of different t-test analysis in Python, In this work, I implemented statistical hypothesis testing using Python and SciPy to compare sample means under different conditions. I simulated synthetic datasets using probability distributions and applied one-sample t-tests to compare a sample against a population mean. I also performed independent two-sample t-tests to evaluate differences between two unrelated groups and used a paired t-test to analyze before-and-after measurements on the same subjects. In addition, I computed confidence intervals to estimate the range of the true population mean and interpreted statistical significance using both p-values and critical t-values. This project demonstrates the application of inferential statistics for comparing groups and drawing data-driven conclusions.
 
